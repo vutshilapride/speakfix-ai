@@ -1,6 +1,6 @@
 # SpeakFix AI
 
-Voice-first maintenance reporting. Instead of filling out forms, users simply **speak** to Iris — an AI voice agent that asks smart follow-up questions, files a structured ticket, and later verifies with the reporter that the problem is *actually* fixed.
+Voice-first maintenance reporting. Instead of filling out forms, users simply **speak** to Iris - an AI voice agent that asks smart follow-up questions, files a structured ticket, and later verifies with the reporter that the problem is *actually* fixed.
 
 **Roles:** Reporter (reports by voice, tracks tickets, confirms/reopens fixes) · Maintenance (works a queue, submits resolution + evidence) · Admin (sees everything + insights dashboard).
 
